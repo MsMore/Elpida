@@ -42,9 +42,8 @@ A zombie survival first peron shooter game.
 2. Total files : 31,102
 3. Total folders : 1,592
 4. Total scripts : 22
-5. Unity editor
-6. Version : 2019.4.13f1
-7. Size of editor : 4.10 GB
+5. Unity editor version : 2019.4.13f1
+6. Size of editor : 4.10 GB
 
 ## Report
 
