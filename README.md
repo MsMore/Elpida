@@ -15,7 +15,7 @@ A zombie survival first peron shooter game.
  1. Windows Device
  2. Dedicated Graphic Card
 
-# Feautures
+# Features
 
 1. Strategic and Action Based  Zombie survival game
 
